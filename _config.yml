@@ -1,8 +1,8 @@
 # Site settings
 title: 'Fong'
 description: '你渴望力量吗...Mortal'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/fong'
+url: 'https://fzp-cxsys.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -12,7 +12,7 @@ author:
   twitter_username:
   facebook_username:
   github_username:
-  linkedin_username: 
+  linkedin_username:
 
 defaults:
   -
